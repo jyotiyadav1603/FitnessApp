@@ -1,0 +1,18 @@
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/mac/.rvm/rubies/ruby-2.7.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-18j5a2c sitelibdir\=./.gem.20240625-20908-18j5a2c clean
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-18j5a2c sitelibdir\=./.gem.20240625-20908-18j5a2c
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-18j5a2c sitelibdir\=./.gem.20240625-20908-18j5a2c install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240625-20908-18j5a2c
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-18j5a2c sitelibdir\=./.gem.20240625-20908-18j5a2c clean

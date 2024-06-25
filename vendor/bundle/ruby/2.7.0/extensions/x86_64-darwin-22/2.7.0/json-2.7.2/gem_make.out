@@ -1,0 +1,16 @@
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/mac/.rvm/rubies/ruby-2.7.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-97q7s4 sitelibdir\=./.gem.20240625-20908-97q7s4 clean
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-97q7s4 sitelibdir\=./.gem.20240625-20908-97q7s4
+make: Nothing to be done for `all'.
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-97q7s4 sitelibdir\=./.gem.20240625-20908-97q7s4 install
+
+current directory: /Users/mac/Projects/code/FitnessApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240625-20908-97q7s4 sitelibdir\=./.gem.20240625-20908-97q7s4 clean
